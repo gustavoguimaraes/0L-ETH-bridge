@@ -1,6 +1,10 @@
 # 0L-ETH-Bridge
 
-Ideas inspired by and borrowed from (https://github.com/celo-org/optics-monorepo)[https://github.com/celo-org/optics-monorepo]
+Ideas inspired by and borrowed from [Celo's Optics](https://github.com/celo-org/optics-monorepo)
+
+## Architecture
+
+Evolving architecture documentation can be found in the [0L - Bridge Intro](https://docs.google.com/document/d/1jGj4PZSqYMMmOfLnPS-SCZ_hzmUfRt608pfeE_1jKVw/edit#heading=h.b9h679cd9jbf)
 
 This project demonstrates an advanced Hardhat use case, integrating other tools commonly used alongside Hardhat in the ecosystem.
 
